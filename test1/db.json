@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "id": "2",
+      "courseName": "PHP Cơ bản",
+      "views": 29,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTef5lOqn3-0aRjvM19iJy-lAknXy3vSH1OfA&s"
+    },
+    {
+      "id": "788b",
+      "courseName": "dấdasd",
+      "views": "5555",
+      "thumbnail": "https://didongviet.vn/dchannel/wp-content/uploads/2022/01/chup-xoa-phong-didongviet.jpg"
+    }
+  ]
+}
